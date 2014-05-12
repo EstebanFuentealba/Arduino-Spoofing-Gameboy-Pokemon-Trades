@@ -11,14 +11,16 @@ Old "8bit" Plug:
 |  6  4  2  |
  \_5__3__1_/   (at cable)
  ```
-| Pin | Name | Cable
-|--------|--------|
-|   1     |   VDD35     | N/A
-|   2     |   SO     | Red
-|   3     |   SI     | Orange
-|   4     |   SD     | Brown
-|   5     |   SC     | Green
-|   6     |   GND     | Blue
+ 
+| Pin        | Name           | Cable  |
+| ------------- |:-------------:| -----:|
+| 1      | VDD35 | N/A |
+| 2      | SO      |   Red |
+| 3 | SI      |    Orange |
+| 4      | SD | Brown |
+| 5      | SC      |   Green |
+| 6 | GND      |    Blue |
+
 
 References
 --------------------------------------
