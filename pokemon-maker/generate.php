@@ -84,5 +84,6 @@ $blocksArray = array(
 );
 
 $dataBlock = Utils::concatenate($blocksArray); 
-file_put_contents(dirname(__FILE__).'/output.h',Utils::makeArray("DATA_BLOCK", $dataBlock));
+file_put_contents(dirname(__FILE__).'/../arduino/slave_gameboy_pde/pokemonspoof.h',Utils::makeArray("DATA_BLOCK", $dataBlock));
+echo 'Generated <strong>pokemonspoof.h</strong>';
 ?>
